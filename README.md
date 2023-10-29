@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working on a [Discord bot](https://github.com/TheJosuep/ChisatoBot) and my own [Android app](https://github.com/TheJosuep/NoteTasks).
 - 🌱 I’m learning Kotlin, Python and Flutter.
-- 👷‍♂️ I've finished working on an [Android app](https://github.com/DarcoProgramador/Hartarte) with Kotlin and Jetpack Compose.
+- 👷‍♂️ I've worked in this [Android project](https://github.com/DarcoProgramador/Hartarte) with Kotlin, Jetpack Compose and Algolia.
