@@ -7,3 +7,4 @@
 - 👷‍♂️ I worked on this [Android project](https://github.com/DarcoProgramador/Hartarte) with Kotlin, Jetpack Compose and Algolia.
 - 😎 Experience working as QA and DBA on SaciSoft company.
 - 🌱 I’m learning Kotlin and Python.
+- 🎨 I'm also doing drawings and commissions on [my Twitter/X](https://twitter.com/TheJosuep)!
